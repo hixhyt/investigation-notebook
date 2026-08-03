@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-label="Investigation Notebook screenshot">
+  <rect width="960" height="540" fill="#fafafa"/>
+  <rect x="90" y="46" width="780" height="448" rx="8" fill="#ffffff" stroke="#d4d4d8"/>
+  <text x="130" y="104" font-family="Georgia, serif" font-size="30" fill="#18181b">CASE-015: Wallet impersonation report</text>
+  <text x="130" y="158" font-family="Arial, sans-serif" font-size="20" fill="#3f3f46">Evidence</text>
+  <text x="154" y="198" font-family="Arial, sans-serif" font-size="16" fill="#52525b">chat: Suspect requested wallet seed phrase</text>
+  <text x="130" y="254" font-family="Arial, sans-serif" font-size="20" fill="#3f3f46">Timeline</text>
+  <text x="154" y="294" font-family="Arial, sans-serif" font-size="16" fill="#52525b">2026-07-18 09:14 - reporter: Report submitted</text>
+  <text x="154" y="328" font-family="Arial, sans-serif" font-size="16" fill="#52525b">2026-07-18 09:35 - analyst: Evidence preserved</text>
+  <text x="130" y="388" font-family="Arial, sans-serif" font-size="20" fill="#3f3f46">Conclusion</text>
+  <text x="154" y="428" font-family="Arial, sans-serif" font-size="16" fill="#52525b">Escalate for fraud and impersonation review.</text>
+</svg>

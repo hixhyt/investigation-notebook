@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=70"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "investigation-notebook"
+version = "0.1.0"
+description = "Structured digital case notebook for investigations."
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+
+[project.scripts]
+investigation-notebook = "investigation_notebook.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
